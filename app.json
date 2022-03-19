@@ -11,7 +11,7 @@
     ],
     "website": "https://amdaniwasa.com",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
-    "success_url": "https://dashboard.heroku.com/apps/",
+    "success_url": "https://dashboard.heroku.com/lahirusanjeewa240/apps/",
     "stack": "container",
     "env":{
         "AMDI_SESSION": {
